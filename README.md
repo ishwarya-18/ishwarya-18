@@ -1,9 +1,9 @@
 # Hi 👋 I'm **ISHWARYA R**
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student** at **Bannari Amman Institute of Technology**
-💻 **Full Stack Developer** | **Java Enthusiast** | Problem Solver
-🚀 Solved **500+ LeetCode Problems** with consistent practice
-🌱 Currently learning **Spring Boot, Backend Development, and Scalable Systems**
+🎓 **B.Tech Artificial Intelligence & Data Science Student** at **Bannari Amman Institute of Technology**<br>
+💻 **Full Stack Developer** | **Java Enthusiast** | Problem Solver<br>
+🚀 Solved **500+ LeetCode Problems** with consistent practice<br>
+🌱 Currently learning **Spring Boot, Backend Development, and Scalable Systems**<br>
 📍 Tamil Nadu, India
 
 ---
