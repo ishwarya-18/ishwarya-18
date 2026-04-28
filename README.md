@@ -99,9 +99,21 @@ DSA • OOP • DBMS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishwarya-18\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwarya-18&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarya-18&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarya-18\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishwarya-18&theme=tokyonight" width="70%" />
+</p>
+
+## 🧠 Problem Solving
+
+* Solved **500+ LeetCode Problems**
+* Strong in Arrays, Strings, Hashing, Two Pointers, Dynamic Programming
+* Maximum LeetCode Streak: **77 Days**
+* Active competitive coding learner
 
 ---
 
