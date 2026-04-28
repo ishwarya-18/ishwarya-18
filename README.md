@@ -1,6 +1,6 @@
-# Hi 👋 I'm ISHWARYA R
+# Hi 👋 I'm **ISHWARYA R**
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student** at Bannari Amman Institute of Technology
+🎓 **B.Tech Artificial Intelligence & Data Science Student** at **Bannari Amman Institute of Technology**
 💻 **Full Stack Developer** | **Java Enthusiast** | Problem Solver
 🚀 Solved **500+ LeetCode Problems** with consistent practice
 🌱 Currently learning **Spring Boot, Backend Development, and Scalable Systems**
@@ -21,12 +21,23 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, Python, C, SQL
-**Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Databases:** PostgreSQL, MySQL
-**Tools:** Git, GitHub, Postman, Docker (Basics)
-**Core Concepts:** DSA, OOP, DBMS
+**Languages**
+Java • JavaScript • TypeScript • Python • C • SQL
+
+**Frontend**
+React.js • HTML5 • CSS3 • Tailwind CSS
+
+**Backend**
+Node.js • Express.js • REST APIs
+
+**Databases**
+PostgreSQL • MySQL
+
+**Tools**
+Git • GitHub • Postman • Docker (Basics)
+
+**Core Concepts**
+DSA • OOP • DBMS
 
 ---
 
@@ -79,25 +90,23 @@
 
 ## 📈 Coding Profiles
 
-* LeetCode: [https://leetcode.com/u/ishwarya_18/](https://leetcode.com/u/ishwarya_18/)
-* HackerRank: [https://www.hackerrank.com/profile/ishwarya_ad23](https://www.hackerrank.com/profile/ishwarya_ad23)
-* LinkedIn: [https://www.linkedin.com/in/ishwarya-01i08s05h](https://www.linkedin.com/in/ishwarya-01i08s05h)
-* Portfolio: [https://github.com/ishwarya-18](https://github.com/ishwarya-18)
+* **LeetCode:** [https://leetcode.com/u/ishwarya_18/](https://leetcode.com/u/ishwarya_18/)
+* **HackerRank:** [https://www.hackerrank.com/profile/ishwarya_18](https://www.hackerrank.com/profile/ishwarya_18)
+* **LinkedIn:** [https://www.linkedin.com/in/ishwarya-01i08s05h](https://www.linkedin.com/in/ishwarya-01i08s05h)
+* **Portfolio:** [https://ishwarya-portfolio-site.vercel.app/](https://ishwarya-portfolio-site.vercel.app/)
 
 ---
 
 ## 📊 GitHub Stats
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishwarya-18&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishwarya-18\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarya-18&layout=compact&theme=tokyonight)
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarya-18\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-If you’d like to collaborate, discuss opportunities, or connect professionally, feel free to reach out.
+If you'd like to collaborate, discuss opportunities, or connect professionally, feel free to reach out.
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ **Always learning. Always building. Always improving.**
